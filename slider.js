@@ -93,6 +93,6 @@ function autoSlider() {
     favCoffeeLeftButton.addEventListener('click', () => autoNextSlide = setInterval(nextSlide, 5 * 1000))
 }
 
-autoSlider()
+// autoSlider()
 
 
